@@ -4,8 +4,8 @@ export default function Footer() {
   const currentYear = new Date().getFullYear();
 
   const socialLinks = [
-    { name: 'GitHub', icon: Github, url: 'https://github.com' },
-    { name: 'LinkedIn', icon: Linkedin, url: 'https://linkedin.com/in/sandeep-kumar' },
+    { name: 'GitHub', icon: Github, url: 'https://github.com/sandeepkumar-dev?tab=repositories' },
+    { name: 'LinkedIn', icon: Linkedin, url: 'https://www.linkedin.com/in/sandeep-kumar-5b970816b/' },
     { name: 'Twitter', icon: Twitter, url: 'https://twitter.com' },
     { name: 'Email', icon: Mail, url: 'mailto:kr.sandeep1997@yahoo.com' },
   ];
