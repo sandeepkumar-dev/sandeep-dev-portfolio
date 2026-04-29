@@ -6,7 +6,7 @@ export default function Footer() {
   const socialLinks = [
     { name: 'GitHub', icon: Github, url: 'https://github.com/sandeepkumar-dev?tab=repositories' },
     { name: 'LinkedIn', icon: Linkedin, url: 'https://www.linkedin.com/in/sandeep-kumar-5b970816b/' },
-    { name: 'Twitter', icon: Twitter, url: 'https://twitter.com' },
+    { name: 'Twitter', icon: Twitter, url: 'https://x.com/Sandeep2112Kr' },
     { name: 'Email', icon: Mail, url: 'mailto:kr.sandeep1997@yahoo.com' },
   ];
 
